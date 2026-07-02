@@ -1,0 +1,9 @@
+{
+  "name": "itaysk-com-router",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node test/router.test.js",
+    "deploy": "npx wrangler deploy"
+  }
+}
